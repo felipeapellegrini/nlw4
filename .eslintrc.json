@@ -23,7 +23,8 @@
         "prettier"
     ],
     "rules": {
-      "prettier/prettier": "error",
+    "prettier/prettier": "error",
+    "import/prefer-default-export": "off",
     "no-useless-constructor":"off",
     "@typescript-eslint/no-explicit-any": "off",
     "class-methods-use-this": "off",
